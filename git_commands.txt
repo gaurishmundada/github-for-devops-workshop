@@ -14,3 +14,19 @@
 
 
 there is some issue i ned to fic 
+
+git log --online
+ git log --oneline
+ git checkout dev
+   git checkout dev
+ git status
+    git add .
+   git commit -m "updated"
+    git push master origin
+   git push origin master
+   git checkout dev
+   git status
+   git push origin dev
+   git switch master
+   git pull origin master
+   histpry
