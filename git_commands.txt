@@ -9,3 +9,5 @@
   rm testing.py
    git status
    git restore testing.py
+    git commit -m "updated"
+    git push origin master...
